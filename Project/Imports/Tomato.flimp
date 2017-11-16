@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="true"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  ConvertEquations="true"
+  LastCollectTime="2017-11-16T10:25:13.7076118-08:00"
+  ProjectName="NewProject"
+  ProjectFolder="C:\Users\Test1.MADCAP\Documents\My Projects\NewProject\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  LastImport="2017-11-16T10:25:16.2161702-08:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/Tomato.docx"
+      AbsoluteSource="file:///C:/Users/Test1.MADCAP/Desktop/Tomato.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Tomato/Tomato.jpg"
+      TimeStamp="11/16/2017 10:25:14 AM" />
+    <Url
+      Source="../../Content/Tomato/Tomato.htm"
+      TimeStamp="11/16/2017 10:25:14 AM" />
+    <Url
+      Source="../TOCs/Tomato.fltoc"
+      TimeStamp="11/16/2017 10:25:14 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Tomato.css"
+      TimeStamp="11/16/2017 10:25:14 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles />
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="Heading 3" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>
